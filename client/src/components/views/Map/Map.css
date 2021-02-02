@@ -1,0 +1,29 @@
+.box{
+    margin: 10px;
+}
+.container{
+    background-color: red;
+    border:black 2px solid;
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+
+}
+.map{
+background-color: blue;
+border:black 2px solid;
+flex-basis: 900px;
+}
+.dot{
+background-color: blueviolet;
+border:black 2px solid;
+margin-left: 5px;
+flex-grow: 1;
+}
+
+.course{
+    margin-top: 10px;
+    background-color: burlywood;
+    border:black 2px solid;
+    height: 400px;
+}
